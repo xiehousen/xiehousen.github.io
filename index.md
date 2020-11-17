@@ -1,6 +1,6 @@
 ## RESUME
 
-![Image](./imgs/housenxie.jpg)
+![Image-w70](./imgs/housenxie.jpg){:height="100" width="100"}
 <br/>
 <br/>
 
