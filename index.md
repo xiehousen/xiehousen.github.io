@@ -1,15 +1,18 @@
-## Housen Xie
+## Housen Xie（谢厚森）
 
-You can use the [editor on GitHub](https://github.com/xiehousen/xiehousen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="./imgs/housenxie.jpg" width = 30% height = 30% div align=left />
 
+computer vision, 3D vision, CVer 
 
-
-<img src="./imgs/housenxie.jpg" width = 30% height = 30% div align=right />
-
-Email: xiehousen@gmail.com
+**Email: xiehousen@gmail.com**
 ### About me
 In 2013 and 2020, I got my Bachelor. and Master. degree at Nanjing Tech University and Nanjing University of Science & Technology, respectively.
+
+
+
 ### Markdown
+You can use the [editor on GitHub](https://github.com/xiehousen/xiehousen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
