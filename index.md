@@ -1,6 +1,16 @@
 ## RESUME
 
-![Image-w70](./imgs/housenxie.jpg){:height="100" width="100"}
+![Image](./imgs/housenxie.jpg)
+
+<img src="https://github.com/xiehousen/xiehousen.github.io/blob/main/imgs/housenxie.jpg" width = "30%" height = "30%" alt="" align=center />
+
+
+{:height="100" width="100"}
+
+
+
+
+
 <br/>
 <br/>
 
