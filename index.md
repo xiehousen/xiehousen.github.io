@@ -1,5 +1,5 @@
 ## RESUME
-<img src="./imgs/housenxie.jpg" width = 30% height = 30% div align=right />
+
 ![Image](./imgs/housenxie.jpg)
 <br/>
 <br/>
