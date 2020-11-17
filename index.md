@@ -1,7 +1,7 @@
 ## Housen Xie
 
 You can use the [editor on GitHub](https://github.com/xiehousen/xiehousen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-![Image](9f72f53.jpg)
+![Image](./imgs/9f72f53.jpg=100x100)
 Email: xiehousen@gmail.com
 ### About me
 In 2013 and 2020, I got my Bachelor. and Master. degree at Nanjing Tech University and Nanjing University of Science & Technology, respectively.
