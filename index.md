@@ -1,11 +1,13 @@
 ## RESUME
-Housen Xie（谢厚森）
-
 <img src="./imgs/housenxie.jpg" width = 30% height = 30% div align=left />
-
+Housen Xie（谢厚森）
 computer vision, 3D vision, CVer 
 
-**Email: xiehousen@gmail.com**
+**Email: xiehousen@gmail.com**  
+
+
+
+
 ### About me
 In 2013 and 2020, I got my Bachelor. and Master. degree at Nanjing Tech University and Nanjing University of Science & Technology, respectively.
 
