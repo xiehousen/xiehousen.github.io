@@ -1,7 +1,8 @@
 ## RESUME
 <img src="./imgs/housenxie.jpg" width = 30% height = 30% div align=left />
 
-
+<br/>
+<br/>
 
 **Housen Xie（谢厚森）**
 
@@ -9,7 +10,8 @@ computer vision, 3D vision, CVer
 
 **Email: xiehousen@gmail.com**  
 
-
+<br/>
+<br/>
 
 
 ### About me
