@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/xiehousen/xiehousen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: xiehousen@gmail.com
 ### About me
 In 2013 and 2020, I got my Bachelor. and Master. degree at Nanjing Tech University and Nanjing University of Science & Technology, respectively.
 ### Markdown
