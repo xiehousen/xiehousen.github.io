@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/xiehousen/xiehousen.github
 ![Image](./imgs/housenxie.jpg)
 
 
+
+
+<img src="./imgs/housenxie.jpg" width = "100" height = "100" div align=right />
+
 Email: xiehousen@gmail.com
 ### About me
 In 2013 and 2020, I got my Bachelor. and Master. degree at Nanjing Tech University and Nanjing University of Science & Technology, respectively.
