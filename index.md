@@ -1,7 +1,7 @@
 ## Housen Xie
 
 You can use the [editor on GitHub](https://github.com/xiehousen/xiehousen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-![Image](./imgs/9f72f53.jpg)
+![Image](./imgs/housenxie.jpg)
 
 Email: xiehousen@gmail.com
 ### About me
