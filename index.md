@@ -1,4 +1,5 @@
-## Housen Xie（谢厚森）
+## RESUME
+Housen Xie（谢厚森）
 
 <img src="./imgs/housenxie.jpg" width = 30% height = 30% div align=left />
 
