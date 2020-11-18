@@ -1,6 +1,6 @@
 ## RESUME
 
-![Image](https://github.com/xiehousen/xiehousen.github.io/blob/main/imgs/housenxie.jpg)
+
 
 <img src="https://github.com/xiehousen/xiehousen.github.io/blob/main/imgs/housenxie.jpg" width = "30%" height = "30%" alt="" align=left />
 
@@ -28,7 +28,7 @@ You can use the [editor on GitHub](https://github.com/xiehousen/xiehousen.github
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+![Image](https://github.com/xiehousen/xiehousen.github.io/blob/main/imgs/housenxie.jpg)
 ```markdown
 Syntax highlighted code block
 
